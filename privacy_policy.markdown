@@ -43,9 +43,4 @@ TextTickler is not intended for use by children under 13. We do not knowingly co
 ## 8. Changes to This Policy
 We may update this Privacy Policy to reflect changes in TextTickler’s functionality or legal requirements. The latest version will be available at the URL where this policy is hosted, with the “Last Updated” date revised. Significant changes will be communicated via the Chrome Web Store listing.
 
-## 9. Contact Us
-For questions, concerns, or requests about this Privacy Policy or TextTickler’s data practices, contact us at:
-- **Email**: [Insert your email address here, e.g., texttickler.support@example.com]
-- **Support**: [Insert optional support URL or leave blank]
-
 Thank you for using TextTickler! We’re here to make your writing shine while keeping your privacy first.
