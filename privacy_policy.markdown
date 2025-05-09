@@ -3,7 +3,6 @@
 **Last Updated: May 6, 2025**
 
 ## 1. Data We Collect
-TextTickler collects and processes the following data:
 
 - **User-Selected Text**: When you use shortcuts (e.g., `/xedit`, `/xreword`) or context menu options, the text you select or type is sent to OpenRouter’s API for processing.
 - **Settings**: Your OpenRouter API key, selected AI model (e.g., GPT-4o), tone, shortcut prefix, and custom prompts are stored locally in your browser using Chrome’s storage API (`chrome.storage.sync`).
@@ -34,9 +33,6 @@ TextTickler relies on OpenRouter’s API to process text. When you use TextTickl
 - **Access and Control**: You can view and modify your settings (API key, model, tone, prompts, prefix) in TextTickler’s options page (right-click the extension icon > “Options”).
 - **Delete Data**: Clear your settings by resetting the extension’s storage in Chrome (Developer Tools > Application > Storage > Clear site data) or uninstalling the extension.
 - **No Tracking**: TextTickler does not track your activity or collect analytics.
-
-## 7. Children’s Privacy
-TextTickler is not intended for use by children under 13. We do not knowingly collect data from children. If you believe a child has used TextTickler, please contact us to remove their data.
 
 ## 8. Changes to This Policy
 We may update this Privacy Policy to reflect changes in TextTickler’s functionality or legal requirements. The latest version will be available at the URL where this policy is hosted, with the “Last Updated” date revised. Significant changes will be communicated via the Chrome Web Store listing.
