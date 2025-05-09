@@ -36,5 +36,3 @@ TextTickler relies on OpenRouter’s API to process text. When you use TextTickl
 
 ## 8. Changes to This Policy
 We may update this Privacy Policy to reflect changes in TextTickler’s functionality or legal requirements. The latest version will be available at the URL where this policy is hosted, with the “Last Updated” date revised. Significant changes will be communicated via the Chrome Web Store listing.
-
-Thank you for using TextTickler! We’re here to make your writing shine while keeping your privacy first.
