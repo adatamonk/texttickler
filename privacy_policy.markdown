@@ -1,8 +1,6 @@
-# TextTickler Privacy Policy
+# Privacy Policy
 
 **Last Updated: May 6, 2025**
-
-TextTickler is a Chrome extension designed to enhance your writing by editing, rewording, explaining, or summarizing text using OpenRouter’s AI models. We are committed to protecting your privacy and ensuring transparency about how your data is handled. This Privacy Policy explains what data we collect, how we use it, and your rights.
 
 ## 1. Data We Collect
 TextTickler collects and processes the following data:
